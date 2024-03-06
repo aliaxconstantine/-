@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32519.111
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "兵牌生成器", "兵牌生成器.csproj", "{4CE96CC1-2F72-4225-86B2-32605294EE04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CE96CC1-2F72-4225-86B2-32605294EE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE96CC1-2F72-4225-86B2-32605294EE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE96CC1-2F72-4225-86B2-32605294EE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE96CC1-2F72-4225-86B2-32605294EE04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {860AC887-A0EA-45E8-8B96-807207B86EE1}
+	EndGlobalSection
+EndGlobal
